@@ -5,6 +5,7 @@
 
 .search-bar input {
     width: 75%;
+    height: 40px;
 }
 
 .video-item img {
@@ -12,10 +13,11 @@
 }
 
 .video-detail .details {
-    margin-top: 10px;
+    margin: 10px;
     padding: 10px;
     border: 1px solid #dddddd;
     border-radius: 4px;
+    background-color: #DBD4D4;
 }
 
 .list-group-item {
